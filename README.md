@@ -2,6 +2,8 @@
 
 Bu proje, kullanıcıların günlük kalori, protein, karbonhidrat ve yağ alımlarını takip etmelerini sağlayan bir Windows Forms uygulamasıdır. Proje, katmanlı mimari ve modern yazılım desenleri kullanılarak geliştirilmiştir.
 
+Proje Sunum Dosyası : https://github.com/burakdegirmenci/Kalori-Takip-Program-/blob/ac374664039b280accf1af15f639949d2bedfd44/FitFusion-Sunum.pdf
+
 ## Özellikler 🌟
 
 - **Günlük Kalori Takibi**: Kullanıcıların günlük kalori, protein, karbonhidrat ve yağ alımlarını hesaplar.
