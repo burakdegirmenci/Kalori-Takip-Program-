@@ -21,11 +21,13 @@ public class FitFusionAnalyzer
     private readonly string _geminiApi;
     public FitFusionAnalyzer()
     {
+
+        //Api Key, Url alanlarını kendi api'larınızla güncellemeyi unutmayın.
          
-         apiKey = "AIzaSyDx_vjRV5wWp2owfGNmQ0TDD2TiFeLuGhI";
-        _apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDx_vjRV5wWp2owfGNmQ0TDD2TiFeLuGhI";
+         apiKey = "--------";
+        _apiUrl = "------";
         _client = new RestClient(_apiUrl);
-        _geminiApi = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyDx_vjRV5wWp2owfGNmQ0TDD2TiFeLuGhI";
+        _geminiApi = "-------";
         _httpClient = new HttpClient();
     }
 
